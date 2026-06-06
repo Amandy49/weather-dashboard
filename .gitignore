@@ -1,0 +1,15 @@
+ # keys
+weather_key
+weather_key.pub
+
+# java
+target/
+*.log
+
+# node
+node_modules/
+dist/
+
+# ide
+.idea/
+.vscode/
